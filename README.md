@@ -11,3 +11,4 @@ Repository for the material of Un-archiving workshop, done in the context of the
 
 * <a href="https://twine2.neocities.org/#macro_set">Harlowe manual</a>
 * <a href="https://twinery.org/cookbook/">Twine Cookbook</a>
+* <a href="https://www.youtube.com/watch?v=YDUU5yZq4og&list=PLFgjYYTq6xyjBtXJTvEaBTVUWxirY6q24&index=2">Twine youtube tutorial</a>
