@@ -7,6 +7,7 @@ You are free also to browse the internet to do your own research of course!
 
 [OAI-PMH](http://www.openarchives.org/pmh/tools/)
 [Metadata Best Practices for Trans and Gender Diverse Resources](https://zenodo.org/record/6687057#.YrXRkezMKWY)
+[Metadata theoretical concerns](https://github.com/DHRI-Curriculum/omeka/blob/master/sections/theoreticalconcerns.md)
 
 ### Some conversation starters questions in case you need them
 
